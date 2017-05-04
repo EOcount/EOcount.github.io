@@ -16,6 +16,6 @@
    <li><a href='eocount_contacts.html'>CONTACT US</a></li>
 </ul>
 </div>
-   <h1> Our constacts </h1>
+   <h1> Our contacts </h1>
 </body>
 <html>
